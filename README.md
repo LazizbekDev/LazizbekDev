@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LazizbekDev
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning reactJs and NodeJs
+- 💞️ I’m looking to collaborate on u
+- 📫 sengineer889@gmail.com to reach me
