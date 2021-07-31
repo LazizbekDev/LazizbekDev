@@ -6,4 +6,6 @@
 - 💞️ I’m looking to collaborate on u
 - 📫 dev.iProger@gmail.com to reach me
 
-# 🍫Lates works
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
