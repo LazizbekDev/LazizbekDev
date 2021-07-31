@@ -1,6 +1,6 @@
-### Hi there 👋, My name is Lazizbek
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://res.cloudinary.com/practicaldev/image/fetch/s--XEMs12_E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gc1pwglkma2342ov0e8k.jpg)
+### Hi there 👋, i'm Lazizbek
+#### I am Fullstack developer
+![yeah](https://res.cloudinary.com/practicaldev/image/fetch/s--XEMs12_E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gc1pwglkma2342ov0e8k.jpg)
 
 
 I am very interested in programming and code is a part of my life. I am now a college student, i'm busy writing code a full day
