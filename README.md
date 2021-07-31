@@ -9,7 +9,7 @@ I am very interested in programming and code is a part of my life. I am now a co
 Skills: ``NODE JS`` / ``ExpressJS`` / ``MONGODB`` / ``REACT``/ ``JS`` / ``HTML`` / ``CSS`` / ``BOOTSTRAP`` / ``Material-UI``
 
 - 🔭 I’m currently working on Portfolio website and mini projects 
-- 🌱 I’m currently learning NextJs and Python 
+- 🌱 I’m currently learning TensorflowJs and Python 
 - 👯 I’m looking to collaborate on startup projects 
 - 💬 Ask me about getting a job 
 - 📫 How to reach me: dev.iproger@gmail.com 
