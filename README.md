@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Lazizbek
+### Hi there 👋, my name is Lazizbek
 #### I am Fullstack developer
 ![yeah](https://res.cloudinary.com/practicaldev/image/fetch/s--XEMs12_E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gc1pwglkma2342ov0e8k.jpg)
 
