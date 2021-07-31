@@ -8,4 +8,6 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Coming soon...](https://dev.to/lazizbekdev/coming-soon-17cf)
+- [Join me on SoloLearn](https://dev.to/lazizbekdev/join-me-on-sololearn-https-www-sololearn-com-happy-new-year-32ao)
 <!-- BLOG-POST-LIST:END -->
