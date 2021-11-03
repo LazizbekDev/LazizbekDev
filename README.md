@@ -6,10 +6,10 @@
 I am very interested in programming and code is a part of my life. I am now a college student, i'm busy writing code a full day
 
 
-Skills: ``NODE JS`` / ``ExpressJS`` / ``MONGODB`` / ``REACT``/ ``JS`` / ``HTML`` / ``CSS`` / ``BOOTSTRAP`` / ``Material-UI``
+Skills: ``NODE JS`` / ``ExpressJS`` / ``MONGODB`` / ``REACT``/ ``JS`` / ``HTML`` / ``CSS`` / ``BOOTSTRAP`` / ``MUI``
 
 - 🔭 I’m currently working on Portfolio website and mini projects 
-- 🌱 I’m currently learning TensorflowJs and Python 
+- 🌱 I’m currently learning NEXT for backend 
 - 👯 I’m looking to collaborate on startup projects 
 - 💬 Ask me about getting a job 
 - 📫 How to reach me: dev.iproger@gmail.com 
