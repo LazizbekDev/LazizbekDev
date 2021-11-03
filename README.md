@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lazizbek
 #### I am Fullstack developer
-![yeah](https://instagram.ftas1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/244800123_396587998767968_8187983282001737613_n.jpg)
+![yeah](https://instagram.ftas1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/244800123_396587998767968_8187983282001737613_n.jpg?_nc_ht=instagram.ftas1-1.fna.fbcdn.net&_nc_ohc=x198YNqyFzcAX-8HgBf&edm=ABfd0MgBAAAA&ccb=7-4&oh=ef02374f2d7ce4f212b3d33d8bbb16f6&oe=61887BDD&_nc_sid=7bff83)
 
 
 I am very interested in programming and code is a part of my life. I am now a college student, i'm busy writing code a full day
