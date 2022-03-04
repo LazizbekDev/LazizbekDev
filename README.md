@@ -16,7 +16,7 @@ Skills: ``NODE JS`` / ``ExpressJS`` / ``MONGODB`` / ``REACT``/ ``JS`` / ``HTML``
 - ⚡ Fun fact: i'm years 17 old 
 
 
-[<img src="https://img.icons8.com/clouds/100/000000/github.png"/>](https://github.com/LazizbekDev)  [https://www.vectorlogo.zone/logos/devto/devto-ar21.svg](https://dev.to/lazizbekdev)  [<img src="https://img.icons8.com/clouds/100/000000/instagram-new--v3.png"/>](https://www.instagram.com/mern.me/)  [<img src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/>](https://t.me/mernme)  
+[<img src="https://img.icons8.com/clouds/100/000000/github.png"/>](https://github.com/LazizbekDev)  [<img src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" />](https://dev.to/lazizbekdev)  [<img src="https://img.icons8.com/clouds/100/000000/instagram-new--v3.png"/>](https://www.instagram.com/mern.me/)  [<img src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/>](https://t.me/mernme)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazizbekDev)](https://github.com/anuraghazra/github-readme-stats)
 
