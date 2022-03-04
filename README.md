@@ -16,7 +16,7 @@ Skills: ``NODE JS`` / ``ExpressJS`` / ``MONGODB`` / ``REACT``/ ``JS`` / ``HTML``
 - ⚡ Fun fact: i'm years 17 old 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LazizbekDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/lazizbekdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mern.me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/mernme)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LazizbekDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/lazizbekdev)  [<img src="https://img.icons8.com/clouds/100/000000/instagram-new--v3.png"/>](https://www.instagram.com/mern.me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/mernme)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazizbekDev)](https://github.com/anuraghazra/github-readme-stats)
 
