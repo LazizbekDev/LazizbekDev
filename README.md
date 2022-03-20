@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Lazizbek
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="emoji" /> my name is Lazizbek
 #### I am Fullstack developer
 ![yeah](https://res.cloudinary.com/practicaldev/image/fetch/s---8m3jDm1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/436r3dvrbgyj6yizti1f.jpg)
 
