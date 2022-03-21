@@ -15,8 +15,6 @@ Skills: ``NODE JS`` / ``ExpressJS`` / ``MONGODB`` / ``REACT``/ ``JS`` / ``HTML``
 - 📫 How to reach me: dev.iproger@gmail.com 
 - ⚡ Fun fact: i'm years 17 old 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lazizbekdev&label=Profile%20views&color=0e75b6&style=flat" alt="lazizbekdev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lazizbekdev" alt="lazizbekdev" /></a> </p>
 
 
