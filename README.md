@@ -1,38 +1,37 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="emoji" width="30" height="30" /> my name is Lazizbek
-#### I am Fullstack developer
-![yeah](https://res.cloudinary.com/practicaldev/image/fetch/s---8m3jDm1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/436r3dvrbgyj6yizti1f.jpg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=180&section=header&text=LazizbekDev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Assalamu+Alaikum,+i'm+===+Lazizbek;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+>+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+;%29)](https://git.io/typing-svg) 
+ 
+<div align="center">
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=LazizbekDev&theme=react-dark&hide_border=true&area=true" />
+</div> 
+ 
+<!-- ./STAT -->
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=LazizbekDev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jovliyev Quvonchbek github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazizbekDev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<!-- ./STATS  -->
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=LazizbekDev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Nazarov Asadbek" /></div>
+
+### Skills:
+
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+### Tools:
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
 
 
-I am very interested in programming and code is a part of my life. I am now a college student, i'm busy writing code a full day
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LazizbekDev}/count.svg" /></p> 
+<br></div>
 
-
-Skills: ``NODE JS`` / ``ExpressJS`` / ``MONGODB`` / ``REACT``/ ``JS`` / ``HTML`` / ``CSS`` / ``BOOTSTRAP`` / ``MUI``
-
-- 🔭 I’m currently working on Portfolio website and mini projects 
-- 🌱 I’m currently learning NEXT for backend 
-- 👯 I’m looking to collaborate on startup projects 
-- 💬 Ask me about getting a job 
-- 📫 How to reach me: dev.iproger@gmail.com 
-- ⚡ Fun fact: i'm years 17 old 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lazizbekdev" alt="lazizbekdev" /></a> </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazizbekdev&" alt="lazizbekdev" /></p>
-
-
-[<img src="https://img.icons8.com/clouds/100/000000/github.png"/>](https://github.com/LazizbekDev)  [<img src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" />](https://dev.to/lazizbekdev)  [<img src="https://img.icons8.com/clouds/100/000000/instagram-new--v3.png"/>](https://www.instagram.com/mern.me/)  [<img src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/>](https://t.me/mernme)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazizbekDev)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LazizbekDev&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LazizbekDev)  
-
-![Profile views](https://gpvc.arturio.dev/LazizbekDev)  
-
-# My posts 🍫
-<!-- BLOG-POST-LIST:START -->
-- [Coming soon...](https://dev.to/lazizbekdev/coming-soon-17cf)
-- [Join me on SoloLearn](https://dev.to/lazizbekdev/join-me-on-sololearn-https-www-sololearn-com-happy-new-year-32ao)
-<!-- BLOG-POST-LIST:END -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
