@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Assalamu+Alaikum,+i'm+===+Lazizbek;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+>+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+;%29)](https://git.io/typing-svg) 
  
-[![Lazizbek's github activity graph](https://activity-graph.herokuapp.com/graph?username=LazizbekDev&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lazizbek's github activity graph](https://activity-graph.herokuapp.com/graph?username=LazizbekDev&theme=react-dark)](https://github.com/LazizbekDev/github-readme-activity-graph)
  
 <!-- ./STAT -->
 <div align="center">  
